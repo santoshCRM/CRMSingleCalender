@@ -1,5 +1,5 @@
 # CRM Single Calender 
-In CRM we alwayz want a single calender where we can find our all work at single glance but 
+In CRM we always want a single calender where we can find our all work at single glance but 
 their is no such process.
 
 This solution provide single calender for  activities (appointment,phonecall,task).
